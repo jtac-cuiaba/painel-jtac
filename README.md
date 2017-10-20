@@ -1,5 +1,5 @@
-[![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0-blue.svg)](https://raw.githubusercontent.com/jtac-cuiaba/painel-jtac/VERSION)
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue.svg)](https://raw.githubusercontent.com/jtac-cuiaba/painel-jtac/LICENSE)
+[![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0-blue.svg)](https://github.com/jtac-cuiaba/painel-jtac/blob/master/VERSION)
+[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue.svg)](https://github.com/jtac-cuiaba/painel-jtac/blob/master/LICENSE)
 
 <img src="favicon.ico" align="right" />
 
