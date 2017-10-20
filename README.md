@@ -52,6 +52,7 @@ http://localhost/
 ## Autor
 
 * **Fernando Aranha** - *Desenvolvedor* - [Fernando Aranha](https://www.dev-spider.com.br)
+* **Nicassio Meneguci** - *Desenvolvedor* - [Nicassio Meneguci](https://www.linkedin.com/in/meneguci/)
 
 
 ## Licença
