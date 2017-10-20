@@ -1,0 +1,19 @@
+[23-Jul-2017 20:49:32 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jtacc241_admin'@'localhost' to database 'jtacc241_jtac' in /home/jtacc241/public_html/admin/conexao.php on line 7
+[23-Jul-2017 20:49:32 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jtacc241/public_html/admin/index.php on line 6
+[23-Jul-2017 20:49:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/jtacc241/public_html/admin/conexao.php:7) in /home/jtacc241/public_html/admin/permissao.php on line 2
+[23-Jul-2017 20:49:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jtacc241/public_html/admin/conexao.php:7) in /home/jtacc241/public_html/admin/permissao.php on line 2
+[23-Jul-2017 20:49:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jtacc241/public_html/admin/conexao.php:7) in /home/jtacc241/public_html/admin/permissao.php on line 5
+[13-Aug-2017 22:47:43 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 63
+[13-Aug-2017 22:48:29 America/Chicago] PHP Fatal error:  Call to a member function page_text() on null in /home/jtacc241/public_html/admin/relatoriomembros.php on line 63
+[13-Aug-2017 22:52:29 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/jtacc241/public_html/admin/dompdf/lib/Cpdf.php on line 3569
+[13-Aug-2017 22:52:35 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/jtacc241/public_html/admin/dompdf/lib/Cpdf.php on line 3569
+[13-Aug-2017 22:53:41 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 64
+[13-Aug-2017 22:58:08 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 64
+[13-Aug-2017 22:58:35 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 64
+[13-Aug-2017 23:01:13 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 64
+[13-Aug-2017 23:01:44 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 64
+[13-Aug-2017 23:02:07 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/jtacc241/public_html/admin/dompdf/lib/Cpdf.php on line 3877
+[14-Aug-2017 00:48:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/jtacc241/public_html/admin/relatoriomembros.php on line 62
+[14-Aug-2017 00:52:42 America/Chicago] PHP Fatal error:  Class 'Font_Metrics' not found in /home/jtacc241/public_html/admin/relatoriomembros.php on line 72
+[14-Aug-2017 00:53:33 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/jtacc241/public_html/admin/dompdf/lib/Cpdf.php on line 3877
+[14-Aug-2017 01:23:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'panel' (T_STRING) in /home/jtacc241/public_html/admin/relatoriomembros.php on line 70
